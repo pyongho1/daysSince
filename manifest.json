@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Days Since",
+  "version": "1.0",
+  "description": "Helps you keep track of certain day such as anniversary!",
+  "action": {
+    "default_title": "Days Since",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["storage", "alarms", "notifications"]
+  // "options_page"
+}
